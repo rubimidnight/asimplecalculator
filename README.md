@@ -1,5 +1,5 @@
-# asimplecalculator
-Here is a simple calculator code. Gotta start small right? 
+//# asimplecalculator
+//Here is a simple calculator code. Gotta start small right? 
 
 #include <iostream>
 #include <cmath>
@@ -8,7 +8,7 @@ using namespace std;
 
 int main(){
 rerun:
-
+//gotta add some style;
 cout<<"*****************************"<<endl;
 cout<<"* Welcome to my Calculator! *"<<endl;
 cout<<"*****************************"<<endl;
